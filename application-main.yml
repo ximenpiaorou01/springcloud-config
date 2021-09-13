@@ -2,7 +2,7 @@
 #    port: 33556
 spring:
   application:
-    name: config-client
+    name: config-clients
   cloud:
     config:
       server:
